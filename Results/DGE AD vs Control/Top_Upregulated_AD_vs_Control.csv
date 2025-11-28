@@ -1,0 +1,2 @@
+"ensembl_gene_id","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj","external_gene_name","description"
+"ENSG00000130758",555.254445195815,1.40083248931934,0.306284656144186,4.57362933864986,4.79347541988322e-06,0.0278676682660611,"MAP3K10","mitogen-activated protein kinase kinase kinase 10 [Source:HGNC Symbol;Acc:HGNC:6849]"

@@ -1,0 +1,14 @@
+name: dge_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - nextflow               # workflow manager
+  - fastqc=0.11.9          # quality check
+  - trimmomatic=0.39       # trimming reads
+  - hisat2=2.2.1           # aligner
+  - samtools=1.17          # BAM/SAM handling
+  - subread=2.0.3          # featureCounts for read counting
+  - multiqc=1.13           # (optional) aggregate QC reports
+  - openjdk=8              # required by trimmomatic (Java 8)

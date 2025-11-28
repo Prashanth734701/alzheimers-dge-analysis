@@ -1,0 +1,15 @@
+﻿sample_id,group,condition,sex
+SRR26253933,Control_M,control,male
+SRR26253952,AD_F,AD,female
+SRR26254090,AD_M,AD,male
+SRR26254102,Control_M,control,male
+SRR26254116,AD_F,AD,female
+SRR26254186,AD_F,AD,female
+SRR26254262,Control_F,control,female
+SRR26254264,Control_M,control,male
+SRR26254336,AD_F,AD,female
+SRR26254392,AD_M,AD,male
+SRR26254404,AD_F,AD,female
+SRR26254419,Control_F,control,female
+SRR26254420,AD_M,AD,male
+SRR26254422,AD_M,AD,male
